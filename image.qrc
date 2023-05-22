@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/pics"/>
+    <qresource prefix="/">
+        <file>whitte.jpg</file>
+        <file>ttdyelloclore.jpg</file>
+        <file>rightside.jpg</file>
+        <file>buttonclore.jpg</file>
+        <file>leftside.jpg</file>
+        <file>center.jpg</file>
+        <file>jvt.jpg</file>
+    </qresource>
+</RCC>
